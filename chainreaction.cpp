@@ -203,7 +203,7 @@ int main(){
 	}
 	//end
 	int row,col;
-	while(trail--){	
+	while(1){	
 		//player 1 
 		if(turn%2==0){
 			cout<<"PLAYER a :\n";	
